@@ -30,3 +30,5 @@ $ ./trypackr/trypackr
 2018/12/10 22:56:51 stat /home/craig/.go/src/github.com/jcburley/templates/admin/index.html: no such file or directory
 $
 ```
+
+Note that the workaround described in https://github.com/gobuffalo/packr/pull/129 fixes this issue.
