@@ -1,5 +1,6 @@
-# "REPONAME"
-Empty repo.
+# "trypackr"
+
+Has the sample code from https://github.com/gobuffalo/packr/tree/master/v2 pretty much verbatim. Yet it doesn't work, beyond picking up the filesystem copy only when the resulting executable is run from the build directory (so the "development" mode works, but not the "production" mode).
 
 Current results (with go version 1.11.2):
 
